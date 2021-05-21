@@ -1,0 +1,20 @@
+{
+  "name": "labkoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.13.1"
+  },
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "koa-bodyparser": "^4.3.0",
+    "mongodb": "^3.6.7",
+    "uuid": "^8.3.2"
+  }
+}
